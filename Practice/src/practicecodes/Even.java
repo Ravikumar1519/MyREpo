@@ -6,6 +6,7 @@ public class Even {
 		Scanner sc=new Scanner(System.in);
 				System.out.println("Enter the value of n");
 				int n=sc.nextInt();
+				
 				int count=0;
 				
 				for( int i=1;i<=n;i++)
