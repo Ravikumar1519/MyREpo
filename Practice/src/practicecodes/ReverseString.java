@@ -1,5 +1,6 @@
 package practicecodes;
 public class ReverseString {
+	
 	public static void main(String[] args) {
 		String str = "MADAM";
 		String rev = "";
